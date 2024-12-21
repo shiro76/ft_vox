@@ -39,7 +39,7 @@ cd ../../
 
 # stb_image (fichier unique pas besoin de compilation)
 echo "Téléchargement de stb_image"
-mkmdir -p stb
+mkdir -p stb
 cd stb
 wget https://raw.githubusercontent.com/nothings/stb/master/stb_image.h
 cd ../
