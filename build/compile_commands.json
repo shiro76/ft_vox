@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/shiro/vox_cpp/c_test/build",
+  "command": "/usr/bin/c++  -I/home/shiro/vox_cpp/c_test/includes -I/home/shiro/vox_cpp/c_test/includes/glfw/include -g -std=gnu++17 -o CMakeFiles/ft_vox.dir/src/main.cpp.o -c /home/shiro/vox_cpp/c_test/src/main.cpp",
+  "file": "/home/shiro/vox_cpp/c_test/src/main.cpp",
+  "output": "CMakeFiles/ft_vox.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/shiro/vox_cpp/c_test/build",
+  "command": "/usr/bin/cc  -I/home/shiro/vox_cpp/c_test/includes -I/home/shiro/vox_cpp/c_test/includes/glfw/include -g -o CMakeFiles/ft_vox.dir/src/glad.c.o -c /home/shiro/vox_cpp/c_test/src/glad.c",
+  "file": "/home/shiro/vox_cpp/c_test/src/glad.c",
+  "output": "CMakeFiles/ft_vox.dir/src/glad.c.o"
+}
+]

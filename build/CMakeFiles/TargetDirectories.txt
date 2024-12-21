@@ -1,0 +1,3 @@
+/home/shiro/vox_cpp/c_test/build/CMakeFiles/ft_vox.dir
+/home/shiro/vox_cpp/c_test/build/CMakeFiles/edit_cache.dir
+/home/shiro/vox_cpp/c_test/build/CMakeFiles/rebuild_cache.dir
