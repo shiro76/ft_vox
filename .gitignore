@@ -1,3 +1,5 @@
+.vscode
+build
 includes/assimp
 includes/assimp_install
 includes/glfw
