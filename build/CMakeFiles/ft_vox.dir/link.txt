@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/ft_vox.dir/src/main.cpp.o CMakeFiles/ft_vox.dir/src/glad.c.o -o ft_vox  -lglfw 
